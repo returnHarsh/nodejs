@@ -1,0 +1,7 @@
+we have 5 type of responses
+
+100 - 199 (informational response)
+200 - 299 (successfull respones)
+300 - 399 (redirectional response)
+400 - 499 (client error response)  // error from client side
+500 - 599 (server end response)  // error from server side

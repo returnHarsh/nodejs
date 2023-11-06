@@ -1,0 +1,5 @@
+suppose you are sending a mail to your friend and wrap your mail inside the envelope but there is some data written on envelopee body eg: ye kaha se aaya h , ye kaha pe jaega , data size and some extra information
+
+HTTP headers are an important part of the API request and response as they repersent the meta-data associated with the API request and response
+Headers are the information for the request and response body
+(meta data) => data about data
