@@ -1,0 +1,35 @@
+ version
+
+ 4.18.2
+
+ 1st part -> 4
+ 2nd part -> 18
+ 3rd part -> 2
+
+  3rd part (last part) -> minor fixes(optional)
+  when you update something small and fixes minor bugs then you update the last (3rd part version)
+
+  2nd part  - Recommended bug fix (secure )
+  latest -> 18 
+
+  3rd part - Major release
+
+
+  last one - > optional
+  second one -> you have to do
+  first one -> very major / breaking update , its recommended not to update it because it'll break your code , never change your first version in existing code 
+
+  express : "^4.18.2"
+  now lets talk about that carrot symbol "^"
+  it lock the major version i.e 4
+  but it can update the 2nd and 3rd version i.e 18.2
+  but it will not go to version 5
+
+  so the second and third is variable and npm can update it automatically
+  but npm id not allowed to update the major version
+
+
+  "~"
+  this means to lock first and second version but npm can chnage the last(optional) version
+  eg: "~4.18.2"
+  so 4 and 18 got locked but npm can update 2 automatically

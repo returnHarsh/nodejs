@@ -1,0 +1,3 @@
+important note
+hum jo bhi changes karenge (req , res) me inside the middleware , vo throughout the server sabme change hoga
+eg: if inside the middleware i store a value in "req.userName" so ye userName har routes ke "req" me rahega

@@ -1,0 +1,19 @@
+REST API 
+
+full name is Restfull API
+there are some rules that you have to follow rest apis 
+
+1 first rule
+"server and client archietecture"
+it says that the server and client are different entity and dono ko ek dusre pe dependent nahi hona cahiye
+
+2nd rule 
+respect all methods
+get , post ,  get , put , delete
+
+jis metod ka jo kaam h vo wahi method kare
+eg lots of user uses only for get and post 
+if they want to delete , put or patch they still use post for that kind of work
+but in REST method we uses all the method
+
+

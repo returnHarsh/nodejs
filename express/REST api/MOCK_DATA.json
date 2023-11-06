@@ -1,0 +1,23 @@
+[
+  {
+    "id": 0,
+    "first_name": "mikasa",
+    "last_name": "akerman",
+    "rank": "1",
+    "anime": "attack on titan"
+  },
+  {
+    "id": 3,
+    "first_name": "hinata",
+    "last_name": "tachibana",
+    "rank": "2",
+    "anime": "tokyo revengers"
+  },
+  {
+    "id": 4,
+    "first_name": "nezuko",
+    "last_name": "kamado",
+    "rank": "5",
+    "anime": "demon slayer"
+  }
+]
